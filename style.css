@@ -1,0 +1,17 @@
+body {
+    background-color: dodgerblue;
+}
+
+a {
+    text-align: left;
+}
+
+p {
+    font-style: italic;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.green {
+    background-color: rgb(88, 160, 88);
+    text-align: center;
+}
